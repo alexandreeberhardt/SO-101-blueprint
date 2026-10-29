@@ -1,0 +1,8 @@
+{"arms": {
+  "follower": {"urdf": "so101_new_calib.urdf", "joints": {},
+    "views": {
+      "x": {"direction": [-1, 0, 0], "up": [0, 0, 1]},
+      "y": {"direction": [0, 1, 0], "up": [0, 0, 1]},
+      "iso": {"direction": [-1, 1, -0.8], "up": [0, 0, 1]}
+    }}
+}}
