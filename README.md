@@ -1,10 +1,10 @@
 # SO-101 blueprint
 
+[![Poster SO-101](poster/so101_blueprint_A3_preview.jpg)](poster/so101_blueprint_A3.pdf)
+
 Poster A3 façon plan d'ingénieur de la paire de bras SO-101 (leader / follower),
 généré à partir du modèle CAO officiel de [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
-(URDF + maillages STL).
-
-![Poster SO-101](poster/so101_blueprint_A3_preview.jpg)
+(URDF + maillages STL). Cliquer sur l'image ouvre le PDF en pleine résolution.
 
 ## Contenu
 
